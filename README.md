@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yumi</h1>
 <p align="center">
-     <a href="https://github.com/HilmySakti"><img src="https://github.com/Mayumiwandi/Mayumiwandi/blob/main/wandi-foto.png"/><a>
+     <a href="https://github.com/Mayumiwandi"><img src="https://github.com/Mayumiwandi/Mayumiwandi/blob/main/wandi-foto.png"/><a>
 </p>
 
        
