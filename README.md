@@ -51,6 +51,6 @@ def get_yumi_info():
 </p>
 
 ## Support Me
-[![Trakteer](https://img.shields.io/badge/Click%20Here!-Trust%20Me-red)](https://www.buymeacoffee.com/yumimayumi)
+[![Trakteer](https://img.shields.io/badge/Click%20Here!-Trust%20Me-red)](https://saweria.co/YumiYui)
 
 
