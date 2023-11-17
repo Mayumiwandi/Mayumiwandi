@@ -34,6 +34,13 @@ def get_yumi_info():
         }
     }
 ```
+
+<p align="center">
+  <a href="https://github.com/Mayumiwandi">
+    <img src="https://skillicons.dev/icons?i=py,linux,github,gitlab,tensorflow,matlab,vscode&theme=light" />
+  </a>
+</p>
+
 ## Connect With Me
 <p align="center">
 <a href="https://www.instagram.com/yumi_fantasy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
