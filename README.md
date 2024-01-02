@@ -59,10 +59,7 @@ def get_yumi_info():
 ## 📈 Activity Graph
 <p align="center">
 <a href="https://github.com/mayumiwandi">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayumiwandi&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/mayumiwandi">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayumiwandi&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayumiwandi&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%" height="50%">
 </a>
 </p>
 
