@@ -8,19 +8,18 @@
 
 
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mayumiwandi&label=Profile%20views&color=0e75b6&style=flat" alt="mayumiwandi" /> </p>
 
 
-## About Me
+## 🚀 About Me
 ```py
 def get_yumi_info():
     return {
         "name": "Yumi",
-        "pronouns": "She | Her",
+        "pronouns": "He",
         "birthday": "04 March 2000"
         "technologies": {
-            "backEnd": "Python "
+            "backEnd": "Python"
         },
         "skills": [ "Python", "Machine Learning", "Sklearn"],
         "interests": ["Anime", "Gaming", "Technology"],
@@ -41,7 +40,7 @@ def get_yumi_info():
   </a>
 </p>
 
-## Connect With Me
+## ☎️ Connect With Me
 <p align="center">
 <a href="https://www.instagram.com/yumi_fantasy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://api.whatsapp.com/send?phone=6287817598153&text=Hello+Mayumi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
@@ -49,11 +48,21 @@ def get_yumi_info():
 
 
 
-## Github Statistic
+## 📊 Github Statistic
 <p align="center">
 <a href="https://github.com/mayumiwandi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mayumiwandi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mayumiwandi&layout=compact&langs_count=8&theme=synthwave"/>
+</a>
+</p>
+
+## 📈 Activity Graph
+<p align="center">
+<a href="https://github.com/mayumiwandi">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayumiwandi&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/mayumiwandi">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayumiwandi&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
 
