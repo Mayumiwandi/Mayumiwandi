@@ -63,7 +63,7 @@ def get_yumi_info():
 </a>
 </p>
 
-## Support Me
-[![Trakteer](https://img.shields.io/badge/Click%20Here!-Trust%20Me-red)](https://saweria.co/YumiYui)
+## 🪙 Support Me
+[![Trakteer](https://img.shields.io/badge/Donate%20here-bf00ff )](https://saweria.co/YumiYui)
 
 
