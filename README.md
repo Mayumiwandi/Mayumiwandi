@@ -16,7 +16,7 @@
 def get_yumi_info():
     return {
         "name": "Yumi",
-        "pronouns": "He",
+        "pronouns": "He | Her",
         "birthday": "04 March 2000"
         "technologies": {
             "backEnd": "Python"
