@@ -22,15 +22,7 @@ def get_yumi_info():
             "backEnd": "Python"
         },
         "skills": [ "Python", "Machine Learning", "Sklearn"],
-        "interests": ["Anime", "Gaming", "Technology"],
-        "social": {
-            "Whatsapp": "https://api.whatsapp.com/send?phone=6287817598153&text=Hello+Mayumi",
-            "Instagram": "https://www.instagram.com/yumi_fantasy/",
-            "LinkedIn": "https://www.linkedin.com/in/ahmad-wandi-091b8a240/",
-            "Telegram": "https://t.me/Yumi_yui",
-            "Tiktok" : "https://www.tiktok.com/@python_yumi"
-
-        }
+        "interests": ["Anime", "Gaming", "Technology"]
     }
 ```
 
