@@ -1,4 +1,14 @@
 
+<!--
+Copyright (c) 2024 Yumi. All Rights Reserved.
+
+This project is licensed under the MIT License.
+You may obtain a copy of the License at:
+
+    https://opensource.org/licenses/MIT
+    https://github.com/Mayumiwandi
+-->
+
 <h1 align="center">Hi 👋, I'm Yumi</h1>
 <p align="center">
      <a href="https://github.com/Mayumiwandi"><img src="https://github.com/Mayumiwandi/Mayumiwandi/blob/main/wandi-foto.png" width="50%" height="50%"/><a>
@@ -41,12 +51,11 @@ def get_yumi_info():
 
 
 ## 📊 Github Statistic
-<p align="center">
-<a href="https://github.com/mayumiwandi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mayumiwandi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mayumiwandi&layout=compact&langs_count=8&theme=synthwave"/>
-</a>
-</p>
+
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayumiwandi&theme=tokyonight)
+![Repo language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayumiwandi&theme=jolly)
+![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayumiwandi&theme=tokyonight)
+
 
 ## 📈 Activity Graph
 <p align="center">
