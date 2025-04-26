@@ -31,6 +31,7 @@ def get_yumi_info():
         "technologies": {
             "backEnd": "Python"
         },
+        "Email": [ "echo 'bGF5YW5hbi55dW1pQGdtYWlsLmNvbQo=' | base64 -d" ]
         "skills": [ "Python", "Machine Learning", "Sklearn"],
         "interests": ["Anime", "Gaming", "Technology"]
     }
