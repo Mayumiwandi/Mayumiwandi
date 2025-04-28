@@ -45,7 +45,7 @@ def get_yumi_info():
 
 ## ☎️ Connect With Me
 <p align="center">
-<a href="https://www.instagram.com/yumi_fantasy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/mayumi_wandi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://api.whatsapp.com/send?phone=6287817598153&text=Hello+Mayumi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 
