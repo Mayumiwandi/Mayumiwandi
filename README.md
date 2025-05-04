@@ -41,7 +41,7 @@ def get_yumi_info():
 
 <p align="center">
   <a href="https://github.com/Mayumiwandi">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,github,gitlab,tensorflow,matlab,vscode,vscodium,cloudflare,workers,fastapi,py,md,neovim,tailwind,html&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,github,gitlab,tensorflow,matlab,vscode,vscodium,cloudflare,workers,fastapi,py,md,neovim,tailwind,html&theme=light&perline=8" />
   </a>
 </p>
 
