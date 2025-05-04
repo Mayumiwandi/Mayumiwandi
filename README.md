@@ -11,7 +11,9 @@ You may obtain a copy of the License at:
 
 <h1 align="center">Hi 👋, I'm Yumi</h1>
 <p align="center">
-     <a href="https://github.com/Mayumiwandi"><img src="https://github.com/Mayumiwandi/Mayumiwandi/blob/main/wandi-foto.png" width="50%" height="50%"/><a>
+  <a href="https://github.com/mayumiwandi">
+    <img src="https://github.com/user-attachments/assets/b5feabb7-3f20-4028-9436-e3f3307dd2ae" width="300" alt="Yumi Logo">
+  </a>
 </p>
 
        
